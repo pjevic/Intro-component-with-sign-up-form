@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>Frontend Mentor | Intro component with sign up form</title>
+
+    <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet" />
+
+    <link rel="stylesheet" href="./CSS/reset.css" />
+    <link rel="stylesheet" href="./CSS/style.css" />
+
+    <script defer src="./index.js"></script>
+  </head>
+  <body>
+    <section class="freetrial">
+      <div class="freetrial__left">
+        <h2 class="freetrial__heading-2">Learn to code by watching others</h2>
+        <p class="freetrial__paragraph">
+          See how experienced developers solve problems in real-time. Watching scripted tutorials is great, but understanding how developers
+          think is invaluable.
+        </p>
+      </div>
+
+      <div class="freetrial__right">
+        <a href="#" class="freetrial__btn freetrial__btn--blue">
+          <span class="freetrial__btn--bold">Try it free 7 days</span> then $20/mo. thereafter</a
+        >
+
+        <form action="#" class="form">
+          <div class="form__input-container">
+            <input type="text" placeholder="First Name" class="form__input form__input--name" />
+            <div class="form__error"></div>
+          </div>
+          <div class="form__input-container">
+            <input type="text" placeholder="Last Name" class="form__input form__input--lastname" />
+            <div class="form__error"></div>
+          </div>
+          <div class="form__input-container">
+            <input type="text" placeholder="Email Address" class="form__input form__input--email" />
+            <div class="form__error"></div>
+          </div>
+          <div class="form__input-container">
+            <input type="password" placeholder="Password" class="form__input form__input--password" />
+            <div class="form__error"></div>
+          </div>
+
+          <button type="submit" class="freetrial__btn freetrial__btn--green">Claim your free trial</button>
+
+          <div class="freetrial__legal">
+            By clicking the button, you are agreeing to our
+            <a href="#" class="freetrial__link"> <strong> Terms and Services</strong> </a>
+          </div>
+        </form>
+      </div>
+    </section>
+  </body>
+</html>
