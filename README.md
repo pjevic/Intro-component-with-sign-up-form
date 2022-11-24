@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+-  [Solution URL:](https://github.com/pjevic/Intro-component-with-sign-up-form)
+-  [Live Site URL:](https://pjevic.github.io/Intro-component-with-sign-up-form/)
 
 ## My process
 
