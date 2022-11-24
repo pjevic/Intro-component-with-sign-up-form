@@ -1,4 +1,4 @@
-# Frontend Mentor - Intro component with sign up form solution
+# Intro component with sign up form solution
 
 This is a solution to the [Intro component with sign up form challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/intro-component-with-signup-form-5cf91bd49edda32581d28fd1).
 
@@ -30,7 +30,6 @@ Users should be able to:
 
 ![](./screenshot.png)
 
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select
 
 ### Links
 
@@ -52,9 +51,9 @@ Add a screenshot of your solution. The easiest way to do this is to use Firefox 
 
 ### Useful resources
 
-- [Example resource 1](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Backgrounds_and_Borders/Using_multiple_backgrounds) - Using multiple backgrounds
-- [Example resource 2](https://en.wikipedia.org/wiki/Email_address) - What is a valid email address format
+- [Using multiple backgrounds](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Backgrounds_and_Borders/Using_multiple_backgrounds) 
+- [What is a valid email address format](https://en.wikipedia.org/wiki/Email_address)
 
 ## Author
 
-- Frontend Mentor - [@pjevic](https://www.frontendmentor.io/profile/pjevic)
+- Milan Pjevic - [@pjevic](https://www.frontendmentor.io/profile/pjevic)
