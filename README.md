@@ -2,20 +2,6 @@
 
 This is a solution to the [Intro component with sign up form challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/intro-component-with-signup-form-5cf91bd49edda32581d28fd1).
 
-## Table of contents
-
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-
-## Overview
-
 ### The challenge
 
 Users should be able to:
@@ -36,18 +22,6 @@ Users should be able to:
 -  [Solution URL:](https://github.com/pjevic/Intro-component-with-sign-up-form)
 -  [Live Site URL:](https://pjevic.github.io/Intro-component-with-sign-up-form/)
 
-## My process
-
-### Built with
-
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- JavaScript
-
-### Continued development
-
-- I would like to find the way how to style the input caret. There's a CSS property for "caret-color" but how to change its size... I coulndn't find the answer.
 
 ### Useful resources
 
